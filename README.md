@@ -38,7 +38,7 @@ If you want to re-train this net, you should run ```'train.py'```.
 ### Testing
 The test images used in the paper have been stored in ```'./Test_result/TNO_IJCAI'```, ```'./Test_result/NIR_IJCAI'``` and ```'./Test_result/FLIR_IJCAI'```, respectively.
 
-For other test images, run ```'test.py'``` and find the results in './Test_result/'.
+For other test images, run ```'test.py'``` and find the results in ```'./Test_result/'```.
 
 ## DIDFuse
 
