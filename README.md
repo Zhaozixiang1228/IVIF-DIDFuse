@@ -31,12 +31,12 @@ Infrared and visible image fusion, a hot topic in the field of image processing,
 ## Usage
 
 ### Training
-A pretrained model is available in './Models/Encoder_weight_IJCAI.pkl' and './Models/Decoder_weight_IJCAI.pkl'. We train it on FLIR (180 image pairs) in './Datasets/Train_data_FLIR'. In the training phase, all images are resize to 128x128 and are transformed to gray pictures.
+A pretrained model is available in ```'./Models/Encoder_weight_IJCAI.pkl'``` and ```'./Models/Decoder_weight_IJCAI.pkl'```. We train it on FLIR (180 image pairs) in ```'./Datasets/Train_data_FLIR'```. In the training phase, all images are resize to 128x128 and are transformed to gray pictures.
 
 If you want to re-train this net, you should run ```'train.py'```.
 
 ### Testing
-The test images used in the paper have been stored in './Test_result/TNO_IJCAI', './Test_result/NIR_IJCAI' and './Test_result/FLIR_IJCAI', respectively.
+The test images used in the paper have been stored in ```'./Test_result/TNO_IJCAI'```, ```'./Test_result/NIR_IJCAI'``` and ```'./Test_result/FLIR_IJCAI'```, respectively.
 
 For other test images, run ```'test.py'``` and find the results in './Test_result/'.
 
