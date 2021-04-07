@@ -42,7 +42,7 @@ For other test images, run ```'test.py'``` and find the results in ```'./Test_re
 
 ## DIDFuse
 
-### Illustration of our Bayesian graph model.
+### Illustration of our DIDFuse model.
 
 <img src="image//Framework.png" width="100%" align=center />
 
