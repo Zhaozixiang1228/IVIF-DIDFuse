@@ -6,7 +6,7 @@
 
 ## Citation
 
-*Zixiang Zhao, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang and Pengfei Li, DIDFuse: Deep Image Decomposition for Infrared and Visible Image Fusion. IJCAI 2020: 970-976, https://www.ijcai.org/Proceedings/2020/135.*
+*[Zixiang Zhao](https://zhaozixiang1228.github.io/), [Shuang Xu](https://xsxjtu.github.io/), [Chunxia Zhang](https://scholar.google.com/citations?user=b5KG5awAAAAJ&hl=zh-CN) and [Junmin Liu](https://scholar.google.com/citations?user=C9lKEu8AAAAJ&hl=zh-CN), [Jiangshe Zhang](http://gr.xjtu.edu.cn/web/jszhang), and [Pengfei Li](), DIDFuse: Deep Image Decomposition for Infrared and Visible Image Fusion. IJCAI 2020: 970-976, https://www.ijcai.org/Proceedings/2020/135.*
 
 ```
 @inproceedings{ZhaoDIDFuse2020,
@@ -54,3 +54,10 @@ For other test images, run ```'test.py'``` and find the results in ```'./Test_re
 ### Quantitative  fusion results.
 
 <img src="image//Quantitative.png" width="90%" align=center />
+
+## Related Work
+
+- Zixiang Zhao, Shuang Xu, Jiangshe Zhang, Chengyang Liang, Chunxia Zhang and Junmin Liu, "Efficient and Model-Based Infrared and Visible Image Fusion via Algorithm Unrolling," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2021.3075745, https://ieeexplore.ieee.org/document/9416456.
+
+- Zixiang Zhao, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang, *Bayesian fusion for infrared and visible images*, Signal Processing, Volume 177, 2020, 107734, ISSN 0165-1684, https://doi.org/10.1016/j.sigpro.2020.107734.
+
